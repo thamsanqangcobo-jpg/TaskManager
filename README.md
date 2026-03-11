@@ -75,8 +75,6 @@ How to Run the Project
 
 Clone the repository:
 
-git clone https://github.com/yourusername/java-task-manager.git
-
 Open the project in NetBeans IDE
 
 Ensure the SQLite database file is available
